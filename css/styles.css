@@ -1,0 +1,103 @@
+body {
+position: relative;
+font-family: 'Ubuntu', sans-serif;
+
+}
+div {
+display: inline-block;
+
+}
+
+.mybio {
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    margin-left: 250px;
+    
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+.myeducation {
+    background-color: lavenderblush;
+    height: 250px;
+    width: 250px;
+    margin-left: 250px;
+
+    }
+
+#pic{
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    margin-top: 200px;
+border-radius: 50%;
+}
+
+.myphoto {
+    background-color:lawngreen;
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin-left: 500px;
+    padding-top: 20px;
+
+}
+
+.myhobbies {
+    background-color: aqua;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    margin-left: 250px;
+    
+}
+
+.row {
+    background-color: skyblue;
+    height: 250px;
+    width: 250px;
+    margin-left: 250px;
+    
+    
+}
+
+.contactme {
+    background-color: bisque;
+    height: 250px;
+    width: 250px;
+    margin-left: 250px;
+}
+p{
+    text-align: center;
+    margin-top: ;
+}
+
+div:hover{
+    background-color: #3cb0fd;
+}
